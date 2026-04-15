@@ -2,6 +2,8 @@
   
 # Welcome to My GitHub
   
+  <img src="https://raw.githubusercontent.com/zayonarts/zayonarts/main/Logo_Zayon_Arts_Animated.svg" width="140px"/>
+  <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=800&size=36&pause=1000&color=B6FF00&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+ZayonArts;Icarus+Modder;Icarus+Mod+Editor+Tool+Creator;UI%2FUX+Enthusiast;UE4+Newbie;GFX+Artist" alt="Typing SVG" />
 
   <p align="center">
