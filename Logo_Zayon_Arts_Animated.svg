@@ -23,7 +23,7 @@
       stroke-width: 0.5;
       opacity: 0;
       transform-origin: 122.95px 157.26px;
-      animation: ghostPulse 5s ease-in-out 3.8s infinite;
+      animation: ghostPulse 4s ease-in-out 4s infinite;
     }
     @keyframes outerDraw {
       to { stroke-dashoffset: 0; }
